@@ -1,1 +1,1 @@
-console.log("testing from inside the wsl...");
+console.log("testing from inside the wsl2...");

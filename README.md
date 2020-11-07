@@ -12,3 +12,8 @@
 ## Fun fact
 
 - WSL2 v WSL1
+
+## Screenshot
+
+![image1](img/image1.png)
+![image2](img/image2.png)
